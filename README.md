@@ -2,7 +2,7 @@
 
 **Track every job application without a spreadsheet**
 
-> #13 of 33 in the build order · Easy · Revenue potential: Medium · Money & Work
+> #31 of 33 · Wave 3: Seasonal and episodic · Used: Until hired · Easy · Revenue potential: Medium · Money & Work
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | 'Got the job!' card |
 | Next step | After an offer: hand over to ShiftLedger or PocketLeft |
 | Cadence | Several times a week during a search |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
