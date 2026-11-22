@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After an offer: hand over to ShiftLedger or PocketLeft |
 | Cadence | Several times a week during a search |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- Cards move smoothly between stages; one celebration for an offer
+- Application sent: a paper plane flies off
+- Interview booked: the stickman straightens his tie in the mirror
+- Offer: confetti and a huge jump (the only celebration; rejections are never animated)
+- Follow-up due: an envelope taps its foot
+- Weekly goal: the stickman climbs another rung of a ladder
 
 **Line we don't cross:** Rejections are never animated.
 
