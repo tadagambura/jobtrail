@@ -1,48 +1,77 @@
 # JobTrail: Spec
 
+**Track every job application without a spreadsheet** · #13 of 33 in the build order · Easy · Revenue potential: Medium · Money & Work · Source: New (Claude)
+
 ## One-liner
 
-Track every job application without a spreadsheet
+Log job applications and their stage (applied, interview, offer, rejected), set follow-up reminders, keep interview notes and hit a weekly applications goal. Your whole pipeline at a glance.
 
 ## Problem / audience
 
-- Who it's for:
-- The problem it solves:
+- **Who it's for:** Graduates, career changers and anyone applying for lots of roles.
+- **The problem it solves:** Applications get lost, follow-ups are forgotten, and it's hard to see progress.
+- **Example:** A graduate applies to 12 roles a week, gets nudged to follow up after 7 days, and sees three move to interview.
 
 ## MVP features (ship with only these)
 
-1.
-2.
-3.
+1. Applications with company, role, link, date and stage
+2. Pipeline board
+3. Follow-up and interview reminders
+4. Notes per application (questions, contacts)
+5. Weekly applications goal with a streak
 
 ## Not in MVP
 
--
+- CV and cover-letter version tracking
+- Export to CSV
+- Interview question bank
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free tier | |
-| Paid | |
-| Ads | |
+| Free | Up to 15 active applications, with ads |
+| Premium | £2.99/month: unlimited, CV versions, exports, insights |
+| Ads | Light |
 
-## Platform & stack
+Prices are starting points; test before committing.
 
-- Platform: (web/PWA first unless there's a reason not to)
-- Stack:
-- Data: (local-only if possible)
+## Retention: The Progression Loop
 
-## Growth engine hooks
+| Stage | Design |
+|---|---|
+| Cue | Weekly goal and follow-up reminders |
+| Tiny win | Log an application or move a stage |
+| Progress | Pipeline and weekly goal |
+| Share | 'Got the job!' card |
+| Next step | After an offer: hand over to ShiftLedger or PocketLeft |
+| Cadence | Several times a week during a search |
 
-- Shareable output (what users would post):
-- Content pillars:
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app.
+- **Data:** On the device only.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
+- **Content pillars:** Job-hunt tips; Application tracking; Interview prep
+- **Shareable output:** 'Got the job!' card
+
+## Risks
+
+Users leave once they're hired (that's success). Grow through graduate-season content.
 
 ## Launch checklist
 
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
