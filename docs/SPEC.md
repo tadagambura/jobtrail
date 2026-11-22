@@ -88,4 +88,4 @@ Users leave once they're hired (that's success). Grow through graduate-season co
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
