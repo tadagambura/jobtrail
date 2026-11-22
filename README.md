@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After an offer: hand over to ShiftLedger or PocketLeft |
 | Cadence | Several times a week during a search |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Cards move smoothly between stages; one celebration for an offer
+
+**Line we don't cross:** Rejections are never animated.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
