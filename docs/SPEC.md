@@ -1,6 +1,6 @@
 # JobTrail: Spec
 
-**Track every job application without a spreadsheet** · #30 of 32 · Wave 3: Seasonal and episodic · Used: Until hired · Easy · Revenue potential: Medium · Money & Work · Source: New (Claude)
+**Track every job application without a spreadsheet** · #29 of 31 · Wave 3: Seasonal and episodic · Used: Until hired · Easy · Revenue potential: Medium · Money & Work · Source: New (Claude)
 
 ## One-liner
 
