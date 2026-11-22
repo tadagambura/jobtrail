@@ -42,6 +42,8 @@ Graduates, career changers and anyone applying for lots of roles.
 | Premium | £2.99/month: unlimited, CV versions, exports, insights |
 | Ads | Light |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
